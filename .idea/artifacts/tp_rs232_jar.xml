@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tp_rs232:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tp_rs232_jar</output-path>
+    <root id="archive" name="tp_rs232.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
