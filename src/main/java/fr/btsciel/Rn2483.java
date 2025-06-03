@@ -1,6 +1,6 @@
 package fr.btsciel;
 
-import fr.btsciel.LaisonSerie.LiaisonSerie;
+import fr.btsciel.LiaisonSerie.LiaisonSerie;
 import jssc.SerialPortEvent;
 import jssc.SerialPortException;
 

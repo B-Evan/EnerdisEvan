@@ -1,4 +1,4 @@
-package fr.btsciel.LaisonSerie;
+package fr.btsciel.LiaisonSerie;
 
 
 import jssc.*;

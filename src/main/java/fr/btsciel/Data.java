@@ -9,7 +9,7 @@ import java.sql.Statement;
 public class Data {
 
     public static void DataSQL() {
-        String url = "jdbc:sqlite:/home/install/Desktop/out/artifacts/Enerdis/rpi.sqlite"; // Chemin vers ta base SQLite
+        String url = "jdbc:sqlite:/home/install/Desktop/out/artifacts/Enerdis/rpi.sqlite";
 
         try (Connection conn = DriverManager.getConnection(url);
              Statement stmt = conn.createStatement();
